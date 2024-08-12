@@ -20,8 +20,10 @@ If you're a developer interested in what we do, we'd love to connect! 🤝 While
 
 We're excited to announce the upcoming launch of our self-serve SaaS platform at [app.lyxer.io](http://app.lyxer.io) (coming soon!). This platform will allow founders and startups to seamlessly upload their app, project, or business ideas for us to review. 📥 It's a straightforward and unintrusive way to explore working together and to keep track of your project's progress within our ecosystem. 🔄📈
 
+## Consulting Services
+
+Have a question or need advice on your software project? We're always happy to chat as consultants on any and all software-related queries. Whether you're seeking guidance on technical challenges, development strategies, or just looking for some expert advice, don't hesitate to reach out. We're here to help! 💼💬
+
 ## Contact Us
 
-Curious to learn more? Visit our website at [lyxer.io](http://lyxer.io) for more information, or reach out to us directly. We're always here to chat about your ideas and how we can help bring them to life. ✨💬
-
-talk@lyxer.io
+Curious to learn more? Visit our website at [lyxer.io](http://lyxer.io) or reach out to us directly at [chat@lyxer.io](mailto:chat@lyxer.io). We're always here to chat about your ideas and how we can help bring them to life. ✨💬
