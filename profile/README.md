@@ -26,4 +26,4 @@ Have a question or need advice on your software project? We're always happy to c
 
 ## Contact Us
 
-Curious to learn more? Visit our website at [lyxer.io](http://lyxer.io) or reach out to us directly at [chat@lyxer.io](mailto:chat@lyxer.io). We're always here to chat about your ideas and how we can help bring them to life. ✨💬
+Curious to learn more? Visit our website at [lyxer.io](http://lyxer.io) or reach out to us directly at [hello@lyxer.io](mailto:hello@lyxer.io). We're always here to chat about your ideas and how we can help bring them to life. ✨💬
