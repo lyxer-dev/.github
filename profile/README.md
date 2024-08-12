@@ -22,4 +22,6 @@ We're excited to announce the upcoming launch of our self-serve SaaS platform at
 
 ## Contact Us
 
-Curious to learn more? Visit our website at [lyxer.io](http://lyxer.io) for more information, or reach out to us directly through our contact form. We're always here to chat about your ideas and how we can help bring them to life. ✨💬
+Curious to learn more? Visit our website at [lyxer.io](http://lyxer.io) for more information, or reach out to us directly. We're always here to chat about your ideas and how we can help bring them to life. ✨💬
+
+talk@lyxer.io
